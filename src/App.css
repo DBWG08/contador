@@ -1,0 +1,13 @@
+.tienda-muebles{
+  color:purple;
+  text-align: center;
+}
+.c-btn-contador{
+  display: flex;
+  justify-content: center;
+}
+.btn-contador{
+  padding: 1rem;
+  font-size: 1rem;
+  font-weight: 800;
+}
